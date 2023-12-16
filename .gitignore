@@ -10,7 +10,7 @@
 
 # production
 /build
-.fras-f7624-firebase-adminsdk-84x15-c040043db0.json
+/.fras-f7624-firebase-adminsdk-84x15-c040043db0.json
 # misc
 .DS_Store
 .env
